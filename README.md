@@ -1,4 +1,5 @@
-### Hi there 👋
+The codes will be public in the future. 
+Here provide some core functions of DFN.
 
 <!--
 **DFNAS/DFNAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
